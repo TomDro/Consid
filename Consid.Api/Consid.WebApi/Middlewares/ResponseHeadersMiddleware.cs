@@ -1,5 +1,6 @@
 ﻿using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Middleware;
+using System.Threading.Tasks;
 
 namespace Consid.WebApi.Middlewares
 {

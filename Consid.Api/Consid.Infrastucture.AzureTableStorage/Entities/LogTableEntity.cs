@@ -1,5 +1,6 @@
 ﻿using Azure;
 using Azure.Data.Tables;
+using System;
 
 namespace Consid.Infrastucture.AzureTableStorage.Entities
 {

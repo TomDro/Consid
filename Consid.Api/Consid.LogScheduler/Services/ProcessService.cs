@@ -2,6 +2,8 @@
 using Consid.Domain.Services.Abstractions;
 using Consid.LogScheduler.Dtos;
 using Consid.LogScheduler.Extensions;
+using System;
+using System.Threading.Tasks;
 
 namespace Consid.LogScheduler.Services
 {

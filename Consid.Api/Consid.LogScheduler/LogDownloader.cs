@@ -2,6 +2,8 @@ using Consid.LogScheduler.Dtos;
 using Consid.LogScheduler.Services;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;
+using System;
+using System.Threading.Tasks;
 
 namespace Consid.Service
 {

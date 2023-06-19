@@ -1,4 +1,6 @@
 ﻿using Consid.Domain.Models;
+using System;
+using System.Threading.Tasks;
 
 namespace Consid.Domain.Services.Abstractions
 {

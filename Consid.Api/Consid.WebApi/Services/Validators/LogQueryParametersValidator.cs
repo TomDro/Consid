@@ -1,5 +1,6 @@
 ﻿using Consid.WebApi.Dtos;
 using FluentValidation;
+using System;
 
 namespace Consid.WebApi.Services.Validators
 {

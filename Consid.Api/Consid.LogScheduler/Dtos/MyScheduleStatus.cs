@@ -1,4 +1,6 @@
-﻿namespace Consid.LogScheduler.Dtos
+﻿using System;
+
+namespace Consid.LogScheduler.Dtos
 {
 	public class MyScheduleStatus
 	{

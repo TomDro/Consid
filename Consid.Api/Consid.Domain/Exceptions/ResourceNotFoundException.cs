@@ -1,4 +1,6 @@
-﻿namespace Consid.Domain.Exceptions
+﻿using System;
+
+namespace Consid.Domain.Exceptions
 {
 	public class ResourceNotFoundException : Exception
 	{

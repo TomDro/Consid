@@ -1,4 +1,6 @@
-﻿namespace Consid.Domain.Models
+﻿using System;
+
+namespace Consid.Domain.Models
 {
 	public record Log
 	{

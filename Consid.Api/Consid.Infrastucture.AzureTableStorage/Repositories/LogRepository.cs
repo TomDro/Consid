@@ -3,6 +3,9 @@ using Consid.Domain.Models;
 using Consid.Domain.Services.Abstractions;
 using Consid.Infrastucture.AzureTableStorage.Entities;
 using Consid.Infrastucture.AzureTableStorage.Extensions;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Consid.Infrastucture.AzureTableStorage.Repositories
 {

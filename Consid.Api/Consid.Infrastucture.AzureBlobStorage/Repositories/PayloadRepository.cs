@@ -3,7 +3,9 @@ using Azure.Storage.Blobs;
 using Consid.Domain.Exceptions;
 using Consid.Domain.Models;
 using Consid.Domain.Services.Abstractions;
+using System;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Consid.Infrastucture.AzureBlobStorage.Repositories
 {

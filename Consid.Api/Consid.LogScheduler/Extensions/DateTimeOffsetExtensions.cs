@@ -1,4 +1,6 @@
-﻿namespace Consid.LogScheduler.Extensions
+﻿using System;
+
+namespace Consid.LogScheduler.Extensions
 {
 	internal static class DateTimeOffsetExtensions
 	{

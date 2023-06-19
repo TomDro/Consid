@@ -1,6 +1,8 @@
 ﻿using Consid.LogScheduler.Configuration;
 using Consid.LogScheduler.Dtos;
 using Microsoft.Extensions.Options;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace Consid.LogScheduler.Services
 {

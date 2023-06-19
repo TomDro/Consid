@@ -1,6 +1,8 @@
 ﻿using Consid.Domain.Exceptions;
 using FluentValidation;
 using Microsoft.Azure.Functions.Worker.Http;
+using System;
+using System.IO;
 using System.Net;
 using System.Text;
 

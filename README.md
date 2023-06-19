@@ -27,3 +27,15 @@ Technologies:
 - any javascript framework (next.js preferable)
 
 Publish code on GitHub
+
+
+# Solution description
+
+I have implemented my solution for backend task.
+For simplicity I decided to:
+- store data in blob in plain text
+- return data by Apis also in plain text as they return whole blob content
+
+I also decided not to use Azure Functions bindings (blob, table bindings) and instead move the storage usage to another layer (another library). 
+
+Solution was tested on local environment using Storage Azurite Emulator
